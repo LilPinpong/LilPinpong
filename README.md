@@ -1,6 +1,6 @@
 # Hi 👋, I'm Gaby Langis
 
-### A passionate dev
+### A passionate junior dev
 
 <p align="left">
   
