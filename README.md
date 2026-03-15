@@ -8,16 +8,6 @@
   
 </p>
 
-
-| | |
-|---|---|
-| 🔭 Working on | **Angular + ASP.NET + PostgreSQL** |
-| 🌱 Learning | **Laravel • PHP • Vue** |
-| 🤝 Looking for | **UI/UX mentorship** |
-| 📫 Contact | **signal.gaby@gmail.com** |
-| 🌐 Portfolio | **https://gaby.kshtech.ca** |
-| 📄 CV | **[View my CV](https://drive.google.com/file/d/1ayUANaGmwgFO8HnEwMk9s_BVjm66QLBl/view)** |
-
 🔭 I'm currently working on **a Angular, ASP.Net Stack** 
 
 🌱 I'm currently learning **Laravel, PHP, Vue**
