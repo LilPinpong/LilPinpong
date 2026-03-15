@@ -14,11 +14,7 @@
 
 🤝 I'm looking for help with **learning UI/UX**
 
-💬 Ask me about **React & c# **
-
 📫 How to reach me **signal.gaby@gmail.com**
-
-⚡ Fun fact **I got mini pigs as pet!**
 
 👨‍💻 All of my projects are available at **[https://gaby.kshtech.ca](https://gaby.kshtech.ca)**
 
