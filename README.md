@@ -7,24 +7,14 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LilPinPong" alt="LilPinPong" /></a> 
   
 </p>
-
-- 🔭 I'm currently working on **a Angular, ASP.Net Stack**
-
-- 🌱 I'm currently learning **N8N, Laravel, PHP, Vue**
-
-- 👯 I'm looking to collaborate on **Every open source projects**
-
-- 🤝 I'm looking for help with **learning UI/UX**
-
-- 💬 Ask me about **React, nodejs, c#, Identity Framework**
-
-- 📫 How to reach me **signal.gaby@gmail.com**
-
-- ⚡ Fun fact **I got mini pigs as pet!**
-
-- 👨‍💻 All of my projects are available at **[https://gaby.kshtech.ca](https://gaby.kshtech.ca)**
-
-- 📄 Know about my experiences **[https://drive.google.com/drive/folders/1PDkZK6WXlFyJCFt7mp6XjMVY8bBEjs7A?usp=sharing](https://drive.google.com/drive/folders/1PDkZK6WXlFyJCFt7mp6XjMVY8bBEjs7A?usp=sharing)**
+🔭 I'm currently working on **a Angular, ASP.Net Stack**
+🌱 I'm currently learning **N8N, Laravel, PHP, Vue**
+🤝 I'm looking for help with **learning UI/UX**
+💬 Ask me about **React & c# **
+📫 How to reach me **signal.gaby@gmail.com**
+⚡ Fun fact **I got mini pigs as pet!**
+👨‍💻 All of my projects are available at **[https://gaby.kshtech.ca](https://gaby.kshtech.ca)**
+📄 Know about my experiences **[https://drive.google.com/file/d/1ayUANaGmwgFO8HnEwMk9s_BVjm66QLBl/view](View my CV here!)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
