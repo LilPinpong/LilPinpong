@@ -8,7 +8,7 @@
   
 </p>
 
-🔭 I'm currently working on **a Angular, ASP.Net Stack** 
+🔭 I'm currently working on **a Angular, ASP.Net Stack Project** 
 
 🌱 I'm currently learning **Laravel, PHP, Vue**
 
