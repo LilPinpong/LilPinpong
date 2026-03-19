@@ -3,9 +3,9 @@
 ### A passionate junior dev
 
 <p align="center">
-  
- [ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LilPinPong" alt="LilPinPong" /></a> ](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=-C,-B)
-  
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=LilPinPong-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 </p>
 
 🔭 I'm currently working on **a Angular, ASP.Net Stack Project** 
